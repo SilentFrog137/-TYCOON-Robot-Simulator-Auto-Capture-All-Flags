@@ -1,0 +1,6 @@
+-- Hello and thank you for using my script!
+-- The script is written specifically to capture all of the flags in the game!
+-- [Made by: SilentFrog137]
+-- Script re-runs every 15 minutes or 900 seconds!
+
+loadstring(game:HttpGet("https://pastebin.com/raw/Euju4Yxf", true))()
